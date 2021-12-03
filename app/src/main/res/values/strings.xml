@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cultural Mediators</string>
+    <string name="welcome_msg">Welcome to the MID Cultural Mediators application</string>
+    <string name="foch_description">Square Maréchal Foch</string>
+    <string name="orgue_st_radegonde_description">Organ of Sainte-Radegonde</string>
+    <string name="dame_dunes_description">Notre Dame des Dunes</string>
+    <string name="poitiers3d_description">Poitiers 3D</string>
+    <string name="copyright">© Copyright LP2I 2021</string>
+</resources>
