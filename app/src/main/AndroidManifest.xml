@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="fr.flowarg.lp2i.midculturalmediators">
+    <uses-sdk android:targetSdkVersion="21" android:minSdkVersion="21" />
 
     <application
         android:allowBackup="true"
