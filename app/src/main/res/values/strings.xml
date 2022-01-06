@@ -1,9 +1,18 @@
 <resources>
     <string name="app_name">Cultural Mediators</string>
     <string name="welcome_msg">Welcome to the MID Cultural Mediators application</string>
-    <string name="foch_description">Square Maréchal Foch</string>
-    <string name="orgue_st_radegonde_description">Organ of Sainte-Radegonde</string>
-    <string name="dame_dunes_description">Notre Dame des Dunes</string>
-    <string name="poitiers3d_description">Poitiers 3D</string>
-    <string name="copyright">© Copyright LP2I 2021</string>
+    <string name="copyright">© Copyright LP2I 2022</string>
+    <string name="notre_dame_la_grande_title">Notre Dame la Grande</string>
+    <string name="square_jeanne_arc_title">Square Jeanne d\'Arc</string>
+    <string name="dhdv_place_armes_title"><![CDATA[Hôtel de Ville & Place d\'Armes]]></string>
+    <string name="bourcani_title">Rue Bourcani</string>
+    <string name="republique_title">Square République</string>
+    <string name="saint_louis_title">Chapelle Saint-Louis</string>
+    <string name="foch_title">Square Foch</string>
+    <string name="promenade_des_cours_title">Promenade des Cours</string>
+    <string name="jardin_des_sens_title">Jardin des Sens</string>
+    <string name="notre_dame_des_dunes_title">Notre Dame des Dunes</string>
+    <string name="eglise_sainte_radegonde_title">Église Sainte-Radegonde</string>
+    <string name="baptistere_saint_jean_title">Baptistère Saint-Jean</string>
+    <string name="blossac_title">Parc Blossac</string>
 </resources>
